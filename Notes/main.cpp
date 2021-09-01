@@ -2,7 +2,7 @@
 
 int main() {
 
-    std::cout << "sup ho" << std::endl;
+    std::cout << "sup hoe!" << std::endl;
 
     return 0;
 }
