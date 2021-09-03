@@ -22,7 +22,7 @@ int main()
     }
     else if (value == 2)
     {
-        cout << "Select appearence" << endl;
+        cout << "Select appearance" << endl;
     }
     else if (value == 3)
     {
@@ -30,7 +30,7 @@ int main()
     }
     else if (value == 4)
     {
-        cout << "Select pet appearence" << endl;
+        cout << "Select pet appearance" << endl;
     }
     else if (value == 5)
     {

@@ -11,7 +11,7 @@ int main()
 
     if (value1 >= 5)
     {
-        cout << "Condtion 1: true" << endl;
+        cout << "Condition 1: true" << endl;
     }
     else
     {
