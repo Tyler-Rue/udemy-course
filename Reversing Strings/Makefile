@@ -6,7 +6,7 @@ SRCS = $(wildcard *.cpp) $(wildcard */*.cpp) $(wildcard */*/*.cpp)
 OBJECTS = $(SRCS:%.cpp=$(BUILD_DIR)/%.o) 
 
 all: clean make_directories executable
-	./main.exe
+	./main
 
 executable: $(OBJECTS)
 	$(CXX) $(CXXFLAGS) -o $(NAME) $^
